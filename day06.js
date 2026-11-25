@@ -9,7 +9,7 @@ let num = 120;
 
 if(num = 100)
 {
-    console.log("number is greater than 100");
+    console.log("number greater than 100");
 }
 
 let num2 = 98;
