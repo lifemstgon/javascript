@@ -2,7 +2,7 @@ let num1 = 110;
 
 if(num1 > 100)
 {
-    console.log("greater than 100");
+    console.log("greater is a than 100");
 }
 
 let num = 120;
