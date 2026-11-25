@@ -70,7 +70,7 @@ console.log(conditions);
 // nullish operator
 let course = null;
 let day20 = null;
-let location = "gao";
+let location = "chandrapur";
 
 let result = day20 ?? location ?? course;
 console.log(result);
